@@ -1,6 +1,6 @@
 from twilio.rest import TwilioRestClient
 
-
+# This python file requires an account with Twilio (www.twilio.com). From there you can acquire a phone number and use their API.
 # Twilio phone number goes here. Grab one at https://twilio.com/try-twilio
 # and use the E.164 format, for example: "+12025551234"
 TWILIO_PHONE_NUMBER = ""
